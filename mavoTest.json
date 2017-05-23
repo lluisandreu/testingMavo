@@ -1,3 +1,7 @@
 {
-	"intro": "This is great"
+	"intro": "This is great",
+	"hobby": [
+		"Eating",
+		"Sleeping"
+	]
 }
